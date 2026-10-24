@@ -1,0 +1,17 @@
+# Build directories
+build/
+*/build/
+
+# Compiled object files & binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# Editor files
+.vscode/
+*.swp
+*~
+
